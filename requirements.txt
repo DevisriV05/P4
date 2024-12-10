@@ -1,0 +1,7 @@
+Should have basic knowledge about python language and modules 
+Modules like
+	. sklearn
+	. json
+	. nltk
+	. scikit-learn
+
